@@ -5,49 +5,54 @@ You can click the Preview link to take a look at your changes.
 
 ```
 
-      ___         ___           ___           ___           ___           ___           ___           ___   
-     /  /\       /  /\         /  /\         /  /\         /  /\         /  /\         /  /\         /  /\  
-    /  /::\     /  /::\       /  /:/_       /  /:/        /  /:/        /  /::\       /  /:/_       /  /::\ 
-   /  /:/\:\   /  /:/\:\     /  /:/ /\     /  /:/        /  /:/        /  /:/\:\     /  /:/ /\     /  /:/\:\
-  /  /:/~/:/  /  /:/~/:/    /  /:/ /:/_   /  /:/  ___   /  /:/  ___   /  /:/~/:/    /  /:/ /:/_   /  /:/~/:/
- /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\ /__/:/  /  /\ /__/:/  /  /\ /__/:/ /:/___ /__/:/ /:/ /\ /__/:/ /:/ 
- \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/ \  \:\ /  /:/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\/:/ /:/ \  \:\/:/  
-  \  \::/     \  \::/~~~~   \  \::/ /:/   \  \:\  /:/   \  \:\  /:/   \  \::/~~~~   \  \::/ /:/   \  \::/   
-   \  \:\      \  \:\        \  \:\/:/     \  \:\/:/     \  \:\/:/     \  \:\        \  \:\/:/     \  \:\   
-    \  \:\      \  \:\        \  \::/       \  \::/       \  \::/       \  \:\        \  \::/       \  \:\  
-     \__\/       \__\/         \__\/         \__\/         \__\/         \__\/         \__\/         \__\/  
-
+  _      _    _  _____  __          __ _____  _   _   _____  
+ | |    | |  | ||  __ \ \ \        / /|_   _|| \ | | / ____|
+ | |    | |  | || |  | | \ \  /\  / /   | |  |  \| || |  __   
+ | |    | |  | || |  | |  \ \/  \/ /    | |  | . ` || | |_ |  
+ | |____| |__| || |__| |   \  /\  /    _| |_ | |\  || |__| | 
+ |______| \____/ |_____/     \/  \/    |_____||_| \_| \_____|
 
 ```
 
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
+![Ludwing GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwingx&show_icons=true&theme=radical)
+![Ludwing GitHub stats](https://github-readme-stats.vercel.app/api?username=ludwingx&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Ludwing!;I'm+a+Software+Architect.;I+build+the+future+with+AI.;A+big+fan+of+clean+code...)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://twitter.com/preccrep"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/preccrep?color=a2c4c9&logoColor=ffe599&style=for-the-badge">
-  <a href="https://www.preccrep.com/"><img alt="PersonalBlog" src="https://img.shields.io/static/v1?label=personalblog&message=preccrep&color=f4cccc&style=for-the-badge">
-  <a href="https://www.cnblogs.com/preccrep"><img alt="CNBlog" src="https://img.shields.io/static/v1?label=cnblog&message=preccrep&color=b4a7d6&style=for-the-badge">
+  <a href="https://twitter.com/ludwingx"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ludwingx?color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge"></a>
+  <a href="https://ludwingx.com/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=portfolio&message=ludwingx&color=FF5733&style=for-the-badge&logo=react"></a>
 </p>
 
-    I'm a student currently studying computer science.
+<p align="center">
+    <b>Software Engineer focused on AI implementation and High-End E-commerce solutions.</b>
+</p>
 
 <!--START_SECTION:colourise-->
 
-<p align=center>
-<img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
-<img src="https://img.shields.io/badge/-Java-235548?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/-Swift-B32D51?style=for-the-badge&logo=swift"/>
-<img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 <!--END_SECTION:colourise-->
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep&theme=radical" /> </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ludwingx&theme=radical" />
+</div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=preccrep" /> </div>
+<br/>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ludwingx&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ludwingx.my-brain" />
+</div>
 
