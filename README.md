@@ -1,7 +1,7 @@
 # Ludwing Armijo
 
-**Full-Stack Developer & Solo Developer**  
-**Web & Mobile Apps | AI Chatbots | Scraping & Automation | Technical Operations**
+**Desarrollador Full-Stack & Solo Developer**  
+**Aplicaciones Web y Móviles | Chatbots de IA | Scraping y Automatización | Operaciones Técnicas**
 
 📍 Santa Cruz de la Sierra, Bolivia  
 👤 [LinkedIn](https://www.linkedin.com/in/ludwingarmijosaavedra/)  
@@ -9,27 +9,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mí
 
-I am a **Full-Stack Developer and Solo Developer** based in Santa Cruz, Bolivia, with a strong focus on building end-to-end platforms, interactive mobile/web applications, and custom AI integrations.
+Soy **Desarrollador Full-Stack y Solo Developer** radicado en Santa Cruz, Bolivia, enfocado firmemente en la construcción de plataformas de extremo a extremo (end-to-end), aplicaciones móviles/web interactivas e integraciones personalizadas de IA.
 
-Currently, I work as the **Lead Developer and 10% Partner at OtherBrain S.R.L.**, an innovative technology agency. In this role, I have taken on the absolute responsibility of designing, coding, and deploying the entire software ecosystem of the company and its outsourcing clients. 
+Actualmente trabajo como **Desarrollador Principal y Socio del 10% en OtherBrain S.R.L.**, una agencia de tecnología innovadora. En este rol, he asumido la responsabilidad absoluta de diseñar, programar y desplegar todo el ecosistema de software de la empresa y de sus clientes de outsourcing.
 
-My work bridges frontend experiences, backend architectures, custom automation pipelines, web scraping systems, and AI-driven products. I specialize in building complete systems independently, turning complex requirements into polished, production-ready solutions from scratch.
+Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de trabajo de automatización personalizados, sistemas de web scraping y productos impulsados por IA. Me especializo en construir sistemas completos de manera independiente, transformando requisitos complejos en soluciones pulidas y listas para producción desde cero.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías
 
-Core technology areas:
+Áreas tecnológicas clave:
 
-- **Frontend & Mobile Development:** Next.js (App Router), React, React Native (Expo), TypeScript, Tailwind CSS, Framer Motion, HTML5/CSS3.
-- **Backend & Database Systems:** Node.js, Express, Go, Python, Prisma ORM, PostgreSQL, SQL Server.
-- **Automation & Scraping:** Puppeteer, N8N, Apify, Custom Webhooks, Android Debug Bridge (ADB) device automation.
-- **AI Integrations:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), generative image pipelines (FLUX).
-- **Integrations & SDKs:** Microsoft Graph API, Microsoft Entra ID (Azure AD), NextAuth, WhatsApp Business API.
+- **Desarrollo Frontend y Móvil:** Next.js (App Router), React, React Native (Expo), TypeScript, Tailwind CSS, Framer Motion, HTML5/CSS3.
+- **Backend y Sistemas de Bases de Datos:** Node.js, Express, Go, Python, Prisma ORM, PostgreSQL, SQL Server.
+- **Automatización y Scraping:** Puppeteer, N8N, Apify, Webhooks personalizados, automatización de dispositivos con Android Debug Bridge (ADB).
+- **Integraciones de IA:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), pipelines de generación de imágenes generativas (FLUX).
+- **Integraciones y SDKs:** Microsoft Graph API, Microsoft Entra ID (Azure AD), NextAuth, WhatsApp Business API.
 
-**Frontend and Mobile**
+**Frontend y Móvil**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -40,7 +40,7 @@ Core technology areas:
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00C5FF?logo=framer&logoColor=white)
 
-**Backend, Data and Cloud**
+**Backend, Datos y Cloud**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
@@ -50,7 +50,7 @@ Core technology areas:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-**Scraping, AI and Automations**
+**Scraping, IA y Automatizaciones**
 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?logo=n8n&logoColor=white)
@@ -61,109 +61,109 @@ Core technology areas:
 
 ---
 
-## 🏢 Professional Experience
+## 🏢 Experiencia Profesional
 
-### Lead Developer & 10% Partner  
+### Lead Developer & Socio del 10%  
 **OtherBrain S.R.L.**  
-*Feb. 2024 - Present · Santa Cruz, Bolivia*
+*Feb. 2024 - Presente · Santa Cruz, Bolivia*
 
-As the lead developer and partner at OtherBrain S.R.L., I own the entire technology stack. I design, build, and deploy all internal systems and software solutions for corporate clients, government agencies, and political campaigns.
+Como desarrollador principal y socio en OtherBrain S.R.L., soy responsable de todo el stack tecnológico. Diseño, construyo y despliego todos los sistemas internos y soluciones de software para clientes corporativos, agencias gubernamentales y campañas políticas.
 
-Main responsibilities:
-- Design and develop end-to-end architectures (frontend, databases, APIs, and background processes) as a Solo Developer.
-- Integrate AI (LLMs, Speech-to-Text, image generation) into business workflows to automate tasks and reporting.
-- Build advanced scraping networks and automation systems to gather market intelligence and monitor media.
-- Deploy internal ERP systems, automated CRM dashboards, and cross-platform mobile apps.
-- Implement real-time notifications, WebSockets communication layers, and hardware automation engines.
+Responsabilidades principales:
+- Diseñar y desarrollar arquitecturas de extremo a extremo (frontend, bases de datos, APIs y procesos en segundo plano) como Solo Developer.
+- Integrar IA (LLMs, Speech-to-Text, generación de imágenes) en flujos de trabajo empresariales para automatizar tareas e informes.
+- Construir redes de scraping avanzadas y sistemas de automatización para recopilar inteligencia de mercado y monitorear medios.
+- Desplegar sistemas ERP internos, tableros de CRM automatizados y aplicaciones móviles multiplataforma.
+- Implementar notificaciones en tiempo real, capas de comunicación por WebSockets y motores de automatización de hardware.
 
 ---
 
-### Full-Stack Developer  
+### Desarrollador Full-Stack  
 **Intelexia Labs**  
-*Prior Experience · Bolivia*
+*Experiencia Previa · Bolivia*
 
-- Developed custom web applications and institutional portals.
-- Crafted SEO strategies and optimized frontend rendering structures to increase web presence and lead generation.
-- Designed database schemas and APIs to support clean data flow for client systems.
-
----
-
-## 📜 Certifications & Education
-
-### Systems Informatics Technician  
-**Universidad Abierta Interamericana**  
-*Graduated 2024 · GPA: 9.25 (Equivalent to Systems Analyst)*
-
-### Systems Engineering  
-**Universidad Abierta Interamericana**  
-*In Progress (8 courses remaining for Bachelor's equivalence)*
+- Desarrollé aplicaciones web personalizadas y portales institucionales.
+- Diseñé estrategias de SEO y optimicé estructuras de renderizado frontend para aumentar la presencia en la web y la generación de leads.
+- Diseñé esquemas de bases de datos y APIs para soportar un flujo de datos limpio para los sistemas de los clientes.
 
 ---
 
-## 📌 Featured Projects
+## 📜 Certificaciones y Educación
 
-Here is a curated selection of systems I have designed and built from scratch as a **Solo Developer**:
+### Técnico Superior en Informática de Sistemas  
+**Universidad Abierta Interamericana**  
+*Graduado en 2024 · Promedio: 9.25 (Equivalente a Analista de Sistemas)*
 
-### 🤖 AI-Powered Platforms
+### Ingeniería en Sistemas  
+**Universidad Abierta Interamericana**  
+*En curso (Restan 8 materias para la equivalencia de Licenciatura)*
 
-*   **BrandBook AI** *(Personal Project | Mar 2026 - Apr 2026)*  
+---
+
+## 📌 Proyectos Destacados
+
+A continuación, una selección de sistemas que he diseñado y construido desde cero como **Solo Developer**:
+
+### 🤖 Plataformas Impulsadas por IA
+
+*   **BrandBook AI** *(Proyecto Personal | Mar 2026 - Abr 2026)*  
     *Next.js 16 · OpenRouter API · FLUX.1 · Prisma · PostgreSQL*  
-    A SaaS platform for interactive brand manual generation via an AI chat assistant. Users chat to generate brand colors, typography cards, and logotypes (FLUX), exporting production-ready 300 DPI PDFs.
+    Una plataforma SaaS para la generación interactiva de manuales de marca a través de un asistente de chat con IA. Los usuarios chatean para generar colores de marca, tarjetas de tipografía y logotipos (FLUX), exportando PDFs de 300 DPI listos para producción.
 *   **OBMarketHub** *(OtherBrain S.R.L. | Oct 2024 - Nov 2024)*  
-    *Next.js · AI APIs · Python · PostgreSQL · Puppeteer*  
-    A comprehensive marketing command center. It analyzes competitor channels, defines buyer personas, drafts content calendars using AI, generates promotional images automatically, and schedules cross-platform social media posts.
-*   **OBMeet** *(OtherBrain S.R.L. | Aug 2024 - Sep 2024)*  
-    *React Native · Node.js · Speech-to-Text APIs · PostgreSQL*  
-    A mobile application that records in-person meetings, transcribes audio, summarizes critical action items via AI, and auto-assigns tickets.
+    *Next.js · APIs de IA · Python · PostgreSQL · Puppeteer*  
+    Un centro de control de marketing integral. Analiza canales de competidores, define buyer personas, redacta calendarios de contenido usando IA, genera imágenes promocionales automáticamente y programa publicaciones en redes sociales multiplataforma.
+*   **OBMeet** *(OtherBrain S.R.L. | Ago 2024 - Sep 2024)*  
+    *React Native · Node.js · APIs de Speech-to-Text · PostgreSQL*  
+    Una aplicación móvil que graba reuniones presenciales, transcribe el audio, resume los puntos de acción clave mediante IA y asigna tareas de forma automática.
 
-### 📈 Scraping, Reputational & Media Monitoring
+### 📈 Scraping, Monitoreo de Medios y Reputación
 
-*   **TutoNoticias & PDCNoticias & SamuelNoticias** *(OtherBrain S.R.L. | Jun 2025 - Nov 2025)*  
-    *Next.js · Node.js · Express · Puppeteer · N8N · PostgreSQL · AI APIs*  
-    A suite of real-time political sentiment monitoring platforms. They scrape over 10,000 daily news articles, use AI to classify polarities (sentiment analysis), alert campaign teams in under 5 minutes of negative viral mentions, and generate PDF executive briefs.
+*   **TutoNoticias, PDCNoticias & SamuelNoticias** *(OtherBrain S.R.L. | Jun 2025 - Nov 2025)*  
+    *Next.js · Node.js · Express · Puppeteer · N8N · PostgreSQL · APIs de IA*  
+    Una suite de plataformas de monitoreo de sentimiento político en tiempo real. Extraen más de 10,000 artículos de noticias diarios, utilizan IA para clasificar polaridades (análisis de sentimiento), alertan a los equipos de campaña en menos de 5 minutos sobre menciones virales negativas y generan informes ejecutivos en PDF.
 *   **C.R.E. Insights** *(OtherBrain S.R.L. | Feb 2025 - Mar 2025)*  
-    *Next.js · Express · PostgreSQL · AI APIs · Tailwind CSS*  
-    A brand reputation platform for the electricity cooperative C.R.E. It tracks online feedback, flags complaints, and delivers interactive analytics and email alerts to speed up customer service.
-*   **LibreScraping & OBScraping** *(OtherBrain S.R.L. | Apr 2024 - May 2025)*  
+    *Next.js · Express · PostgreSQL · APIs de IA · Tailwind CSS*  
+    Una plataforma de reputación de marca para la cooperativa eléctrica C.R.E. Realiza el seguimiento de comentarios en línea, clasifica quejas y ofrece análisis interactivos y alertas por correo electrónico para agilizar el servicio al cliente.
+*   **LibreScraping & OBScraping** *(OtherBrain S.R.L. | Abr 2024 - May 2025)*  
     *Python · Node.js · Puppeteer · Express · PostgreSQL*  
-    High-volume social media monitoring scrapers designed to bypass bot detection filters. Collected and structured over 50,000 historical posts and daily engagement metrics from Facebook, Instagram, and TikTok.
+    Scrapers de monitoreo de redes sociales de alto volumen diseñados para eludir filtros de detección de bots. Recopilaron y estructuraron más de 50,000 publicaciones históricas y métricas de interacción diarias de Facebook, Instagram y TikTok.
 
-### 🏢 ERP, Automation & Infrastructure Systems
+### 🏢 ERP, Automatización y Sistemas de Infraestructura
 
-*   **SCA-iERP** *(OtherBrain S.R.L. | Dec 2024 - Jan 2025)*  
+*   **SCA-iERP** *(OtherBrain S.R.L. | Dic 2024 - Ene 2025)*  
     *Node.js · Express · Prisma · PostgreSQL · WhatsApp Business API*  
-    An ERP system featuring a WhatsApp chatbot that automatically processes 40% of wholesale orders by interpreting product codes and quantities.
-*   **OB-Bot Dashboard** *(OtherBrain S.R.L. | Jan 2023 - Mar 2023)*  
+    Un sistema ERP con un chatbot de WhatsApp que procesa automáticamente el 40% de los pedidos mayoristas interpretando códigos de productos y cantidades.
+*   **OB-Bot Dashboard** *(OtherBrain S.R.L. | Ene 2023 - Mar 2023)*  
     *Next.js · WebSockets · Node.js · PostgreSQL · Android Debug Bridge (ADB)*  
-    A hardware orchestration hub that coordinates real-time interactions (likes, shares, comments) across a physical farm of 50+ Android devices using custom ADB commands and WebSockets.
-*   **TeloVendo** *(OtherBrain S.R.L. | Aug 2023 - Sep 2023)*  
-    *Node.js · Express · AI APIs · PostgreSQL · Puppeteer*  
-    A high-concurrency e-commerce automation tool that runs virtual marketplace accounts, answers user questions using AI, and qualifies leads 24/7.
+    Un centro de orquestación de hardware que coordina interacciones en tiempo real (likes, compartidos, comentarios) en una granja física de más de 50 dispositivos Android utilizando comandos ADB personalizados y WebSockets.
+*   **TeloVendo** *(OtherBrain S.R.L. | Ago 2023 - Sep 2023)*  
+    *Node.js · Express · APIs de IA · PostgreSQL · Puppeteer*  
+    Una herramienta de automatización de comercio electrónico de alta concurrencia que administra cuentas de mercados virtuales, responde preguntas de usuarios usando IA y califica clientes potenciales las 24 horas, los 7 días de la semana.
 *   **GestorCorreosTC** *(Freelance | Sep 2024 - Oct 2024)*  
     *Next.js 16 · NextAuth v5 · Microsoft Graph SDK · PostgreSQL*  
-    An automated document routing app that connects to Microsoft Entra ID and OneDrive via Graph API, classifying over 1,200 client files monthly.
+    Una aplicación de enrutamiento automático de documentos conectada a Microsoft Entra ID y OneDrive mediante Graph API, que clasifica más de 1,200 archivos de clientes mensualmente.
 
-### 💼 E-commerce & Freelance Client Apps
+### 💼 E-commerce y Aplicaciones para Clientes Freelance
 
 *   **ScentDuo App Web** *(Freelance | Mar 2025 - Apr 2025)*  
     *Next.js 16 · NextAuth v5 · Zustand · UploadThing · Prisma · PostgreSQL*  
-    Monolithic e-commerce platform for fine perfumery, featuring an admin panel, a physical POS, checkout to WhatsApp, and QR code payment verification.
-*   **Farmacia Santa Rosita App** *(Freelance | Jan 2026 - Feb 2026)*  
+    Plataforma de comercio electrónico monolítica para perfumería fina, con panel de administración, POS físico, pago por WhatsApp y verificación de pagos con códigos QR.
+*   **Farmacia Santa Rosita App** *(Freelance | Ene 2026 - Feb 2026)*  
     *Next.js · Tailwind CSS · Prisma · PostgreSQL*  
-    Internal inventory and sales control system that tracks medicine expiry dates and stocks, reducing manual audit times by 85%.
-*   **Toga** *(Freelance | Jan 2025 - Feb 2025)*  
-    *React · Node.js · PostgreSQL · Prisma · QR APIs*  
-    An interactive garden cafe ordering app linking physical table QR codes with live food menus and purchase options for decorative plants.
+    Sistema interno de control de inventario y ventas que rastrea fechas de vencimiento de medicamentos y stock, reduciendo el tiempo de auditoría manual en un 85%.
+*   **Toga** *(Freelance | Ene 2025 - Feb 2025)*  
+    *React · Node.js · PostgreSQL · Prisma · APIs de QR*  
+    Una aplicación interactiva para pedidos de cafetería de jardín que vincula códigos QR en mesas físicas con menús interactivos y opciones de compra de plantas decorativas.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Conectemos
 
-I am open to collaborating on:
-- Web & Mobile App Development
-- AI Integration & Agentic Workflows
-- Custom Scraping & Web Automations
-- Full-Stack Architecture Consulting
-- Open-source contributions
+Estoy abierto a colaborar en:
+- Desarrollo de aplicaciones web y móviles
+- Integración de IA y flujos de trabajo de agentes
+- Scraping personalizado y automatizaciones web
+- Consultoría de arquitectura Full-Stack
+- Contribuciones de código abierto
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/) or email me at **ludwing.armijo.dev@gmail.com**!
+¡No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/ludwingarmijosaavedra/) o enviarme un correo electrónico a **ludwingarmijosaavedra@gmail.com**!
