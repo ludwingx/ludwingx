@@ -23,10 +23,10 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 
 Áreas tecnológicas clave:
 
-- **Desarrollo Frontend y UI:** Next.js (App Router), React, Astro, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Framer Motion.
+- **Desarrollo Frontend y UI:** Next.js (App Router), React, Astro, TypeScript, JavaScript, Tailwind CSS, Bootstrap, shadcn/ui, Framer Motion.
 - **Desarrollo Móvil:** React Native, Expo.
 - **Backend y Bases de Datos:** Node.js, Express, Python, Prisma ORM, PostgreSQL.
-- **IA, Automatización y Scraping:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), Puppeteer, N8N, WhatsApp Business API.
+- **IA, Automatización y Scraping:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), Puppeteer, N8N.
 - **Infraestructura e Integraciones:** Easypanel, Git, GitHub, NextAuth, Microsoft Graph API, Microsoft Entra ID (Azure AD).
 
 **Frontend**
@@ -45,6 +45,7 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 **UI y Animaciones**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00C5FF?logo=framer&logoColor=white)
 
@@ -60,7 +61,6 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter%20API-000000?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?logo=n8n&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?logo=whatsapp&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
 
 **Otras Herramientas e Infraestructura**
