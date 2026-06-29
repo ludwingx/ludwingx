@@ -4,8 +4,8 @@
 **Web & Mobile Apps | AI Chatbots | Scraping & Automation | Technical Operations**
 
 📍 Santa Cruz de la Sierra, Bolivia  
-👤 [LinkedIn](https://linkedin.com/in/)  
-✉️ ludwing.armijo.dev@gmail.com
+👤 [LinkedIn](https://www.linkedin.com/in/ludwingarmijosaavedra/)  
+✉️ ludwingarmijosaavedra@gmail.com
 
 ---
 
