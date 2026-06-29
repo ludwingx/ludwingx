@@ -23,39 +23,49 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 
 Áreas tecnológicas clave:
 
-- **Desarrollo Frontend y Móvil:** Next.js (App Router), React, React Native (Expo), TypeScript, Tailwind CSS, Framer Motion, HTML5/CSS3.
-- **Backend y Sistemas de Bases de Datos:** Node.js, Express, Go, Python, Prisma ORM, PostgreSQL, SQL Server.
-- **Automatización y Scraping:** Puppeteer, N8N, Apify, Webhooks personalizados, automatización de dispositivos con Android Debug Bridge (ADB).
-- **Integraciones de IA:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), pipelines de generación de imágenes generativas (FLUX).
-- **Integraciones y SDKs:** Microsoft Graph API, Microsoft Entra ID (Azure AD), NextAuth, WhatsApp Business API.
+- **Desarrollo Frontend y UI:** Next.js (App Router), React, Astro, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Framer Motion.
+- **Desarrollo Móvil:** React Native, Expo.
+- **Backend y Bases de Datos:** Node.js, Express, Python, Prisma ORM, PostgreSQL.
+- **IA, Automatización y Scraping:** Claude (Anthropic), Gemini (Google), OpenRouter API, ChatGPT (OpenAI), Puppeteer, N8N, WhatsApp Business API.
+- **Infraestructura e Integraciones:** Easypanel, Git, GitHub, NextAuth, Microsoft Graph API, Microsoft Entra ID (Azure AD).
 
-**Frontend y Móvil**
+**Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+
+**Móvil**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+
+**UI y Animaciones**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-00C5FF?logo=framer&logoColor=white)
 
-**Backend, Datos y Cloud**
+**Backend, Datos y ORMs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-**Scraping, IA y Automatizaciones**
+**IA, Automatización y Scraping**
 
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter%20API-000000?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?logo=n8n&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?logo=whatsapp&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter%20API-000000?logo=openai&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+
+**Otras Herramientas e Infraestructura**
+
+![Easypanel](https://img.shields.io/badge/Easypanel-5B45E8?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
