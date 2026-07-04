@@ -68,7 +68,7 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 
 ## 🏢 Experiencia Profesional
 
-### Lead Developer
+### Lead Full Stack Developer
 **OtherBrain S.R.L.**  
 *Dic. 2024 - Presente · Santa Cruz, Bolivia*
 
