@@ -27,7 +27,7 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 - **Desarrollo Frontend & Móvil:** Next.js, React, React Native, Expo, Astro, TypeScript, JavaScript.
 - **UI & Animaciones:** Tailwind CSS, Bootstrap, shadcn/ui, Framer Motion.
 - **Backend & Bases de Datos:** Node.js, Express, Python, Prisma ORM, PostgreSQL.
-- **IA, Automatización & Scraping:** Integración de LLMs (Claude, Gemini, ChatGPT, OpenRouter), automatizaciones con N8N, web scraping con Puppeteer.
+- **IA, Automatización & Scraping:** Integración de LLMs (Claude, Gemini, ChatGPT, OpenRouter), automatizaciones con N8N.
 - **Infraestructura & DevOps:** Easypanel, Git, GitHub, NextAuth, Microsoft Graph API, Microsoft Entra ID (Azure AD).
 
 **Frontend, Móvil & UI**
@@ -56,7 +56,6 @@ Mi trabajo conecta experiencias frontend, arquitecturas backend, flujos de traba
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter%20API-000000?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?logo=n8n&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
 
 **Infraestructura & Herramientas**
 
@@ -78,7 +77,7 @@ Responsabilidades principales:
 - Liderar la toma de decisiones tecnológicas en el diseño y arquitectura de productos de IA.
 - Diseñar y desarrollar arquitecturas robustas y de extremo a extremo (frontend, bases de datos relacionales, APIs y flujos asíncronos en segundo plano) como Solo Developer.
 - Desarrollar e integrar flujos de trabajo inteligentes y procesamiento de datos mediante LLMs (Claude, Gemini, OpenAI).
-- Implementar automatizaciones complejas de scraping e ingesta de datos integrando n8n, Puppeteer y APIs externas.
+- Implementar automatizaciones complejas de scraping e ingesta de datos integrando n8n y APIs externas.
 - Garantizar la seguridad e integridad de datos corporativos sensibles procesados por sistemas de IA (AI Security).
 
 Proyectos principales en la empresa:
@@ -115,7 +114,7 @@ A continuación, una selección de los sistemas que he diseñado y desarrollado 
 - Integración avanzada de LLMs (Claude, Gemini, OpenAI y OpenRouter).
 - Diseño y desarrollo de agentes expertos orientados a ventas y soporte interactivo.
 - Creación de automatizaciones y orquestaciones personalizadas utilizando n8n y scripts.
-- Extracción de datos web (web scraping) a gran escala con Puppeteer y Python.
+- Extracción de datos web (web scraping) a gran escala con Python.
 - Buenas prácticas en seguridad de IA (AI Security y mitigación de riesgos en prompts).
 
 ## 🧩 Ingeniería de Software & Web
